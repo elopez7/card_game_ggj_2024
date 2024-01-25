@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Maps/MainMenu.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Materials/MAT_Base.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/UMG/WBP_MainMenu.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/CG_PlayerController.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_GameState.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_PlayerState.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_MainMenuGameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_MainMenuPawn.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/UMG/WBP_Button.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Maps/Level_1.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_PlayerPawn.uasset"
+			]
+		}
+	]
+}
