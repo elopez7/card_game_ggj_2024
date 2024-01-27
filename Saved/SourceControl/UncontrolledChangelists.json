@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Blueprints/Game/Level1/L1_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Maps/Level_1.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Blueprints/Game/Actors/BP_VolumeSpawner.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Blueprints/Game/Actors/BP_CardKillBox.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Data/S_Jokes.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Data/JokesDataTable.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Textures/Red_Crosshair2.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Blueprints/Game/CG_PlayerController.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/UMG/Game/WBP_Crosshair.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/UMG/Game/WBP_Game.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Input/CG_IMC.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/UMG/Game/WBP_AnswerText.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Blueprints/Game/Actors/BP_Card.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Textures/Red_Crosshair3.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/Content/Data/DT_Jokes.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/UMG/MainMenu/WBP_Button.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/UMG/MainMenu/WBP_MainMenu.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/UMG/WBP_MainMenu.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/UMG/WBP_Button.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/UMG/Game/WBP_Game.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Blueprints/Game/Level1/L1_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Blueprints/Game/CG_PlayerController.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Textures/Mockups/CardMockUp.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Blueprints/Game/Actors/BP_Card.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Maps/Level_1.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Blueprints/Game/Level1/L1_PlayerPawn.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/card_game_ggj_2024/CardGame/Content/Blueprints/Game/Actors/BP_Spawner.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Maps/MainMenu.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Materials/MAT_Base.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/UMG/WBP_MainMenu.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/CG_PlayerController.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_GameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_GameState.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_PlayerState.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_MainMenuGameMode.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/MainMenu/BP_MainMenuPawn.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/UMG/WBP_Button.uasset",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Maps/Level_1.umap",
+				"C:/Users/Esteban/Documents/Unreal Projects/CardGame/Content/Blueprints/Game/Level1/L1_PlayerPawn.uasset"
+			]
+		}
+	]
+}
